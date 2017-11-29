@@ -1,0 +1,20 @@
+.hero {
+  background-image: url(/Users/sadodds/Prj-Broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: White;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight:bold;
+}
+
+a {
+  font-size: 18px;
+  color: White;
+}
+
+.supporting {
+  text-align: center;
+}
